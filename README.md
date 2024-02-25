@@ -2,7 +2,7 @@
 
 # Revolutionizing the Used Car Market: Eliminating Fraud and Adding Trusted Vehicle History with dNFTs
 
-# ¿What is TradyFY & why was it created?
+# ¿What is Tradyfy & why was it created?
 
 We have identified a major problem occurring in the second-hand market, FRAUD
 
