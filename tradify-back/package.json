@@ -1,0 +1,18 @@
+{
+  "dependencies": {
+    "@openzeppelin/contracts": "^5.0.1",
+    "@openzeppelin/contracts-upgradeable": "^5.0.1",
+    "@openzeppelin/hardhat-upgrades": "^3.0.1",
+    "@pinata/sdk": "^2.1.0",
+    "chai": "^4.4.0",
+    "dotenv": "^16.3.1",
+    "hardhat": "^2.19.4",
+    "solidity-coverage": "^0.8.5"
+  },
+  "devDependencies": {
+    "@nomicfoundation/hardhat-network-helpers": "^1.0.10",
+    "@nomicfoundation/hardhat-toolbox": "^4.0.0",
+    "@nomicfoundation/hardhat-verify": "^2.0.3",
+    "hardhat-deploy": "^0.11.45"
+  }
+}
