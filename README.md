@@ -1,4 +1,4 @@
-## TRADIFYPLATFORM
+## TRADYCAR
 
 # Revolutionizing the Used Car Market: Eliminating Fraud and Adding Trusted Vehicle History with dNFTs
 
