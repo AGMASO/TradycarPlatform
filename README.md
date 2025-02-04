@@ -14,6 +14,11 @@ Check the whitepaper of the project:
 
 https://docs.google.com/document/d/1kcIoExNxpnqiihtauKozubSN_vCYmZCT/edit?usp=drive_link&ouid=100234648650252345493&rtpof=true&sd=true
 
+# DEMO VIDEO: 
+
+  https://youtu.be/ioEUU9pN6Tk
+
+
 
 # How?
 
